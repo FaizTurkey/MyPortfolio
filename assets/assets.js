@@ -84,6 +84,18 @@ export const workData = [
         description: 'Music Player',
         bgImage: '/spotify_clone.png',
     },
+
+     {
+        title: 'Fizzy-Vault',
+        description: 'Previous CT Papers ',
+        bgImage: '/FizzyVault.png',
+    },
+     {
+        title: 'AI Medical Assistant',
+        description: 'AI Assistant For Medical Issue ',
+        bgImage: '/Aimedo.png',
+    },
+
     {
         title: 'Coming Soon',
         description: 'More To Comming', 
@@ -91,11 +103,7 @@ export const workData = [
     },
    
    
-    // {
-    //     title: 'Photography site',
-    //     description: 'Web Design',
-    //     bgImage: '/work-3.png',
-    // },
+   
     // {
     //     title: 'UI/UX designing',
     //     description: 'UI/UX Design',

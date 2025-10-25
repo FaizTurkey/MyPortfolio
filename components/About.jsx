@@ -19,7 +19,7 @@ const About = () => {
                         <ul className='border-[0.5px] border-gray-400 rounded-xl p-6 cursor-pointer hover:-translate-y-1  duration-500'>
                             <Image className='w-7 mt-3 mb-3' src={assets.code_icon} alt='img'/>
                             <h3 className='my-4 font-semibold text-gray-700'>Languages</h3>
-                            <p className='text-gray-600 text-sm'>HTML,CSS,JavaScript,<br />React Js Next js</p>
+                         <p className='text-gray-600 text-sm'>HTML,CSS,JavaScript,<br />ReactJs,NextJs,TypeScript</p>
                         </ul>
                         <ul className='border-[0.5px] border-gray-400 rounded-xl p-6 cursor-pointer  hover:-translate-y-1 duration-500'>
                             <Image className='w-7 mt-3 mb-3' src={assets.edu_icon} alt='img' />
