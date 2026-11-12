@@ -76,31 +76,42 @@ export const assets = {
 export const workData = [
     {
         title: 'MERN Full Stack Project',
-        description: 'Fizzy Trade (Stock Market Trading Website)',
-        bgImage: '/dashboard.png',
+        description: 'FizzyPhotosHUB',
+        bgImage: '/dashboard2.png',
+        url:"https://fizzyphotoshub.vercel.app",
+        
     },
     {
-        title: 'Fizzy Music',
-        description: 'Music Player',
-        bgImage: '/spotify_clone.png',
+        title: 'Random Password Generator',
+        description: 'Password Generator',
+        bgImage: '/password.png',
+        url:"https://fizzypasswordgenerator.netlify.app/",
     },
 
      {
-        title: 'Fizzy-Vault',
+        title: 'FizzyEduValult',
         description: 'Previous CT Papers ',
-        bgImage: '/FizzyVault.png',
+        bgImage: '/FizzyVault2.png',
+        url:"https://fizzyeduvault.netlify.app/",
     },
      {
-        title: 'AI Medical Assistant',
-        description: 'AI Assistant For Medical Issue ',
-        bgImage: '/Aimedo.png',
+        title: 'Shoping Cart',
+        description: 'Redux Shoping Cart ',
+        bgImage: '/shopingcart.png',
+        url:" https://fizzycom.vercel.app/"
     },
-
     {
-        title: 'Coming Soon',
-        description: 'More To Comming', 
-        bgImage: '/more2.png',
+        title: 'Top Course',
+        description: 'Courses Website', 
+        bgImage: '/course.png',
+        url:"https://topcoursefaizyy.netlify.app/"
     },
+    {
+        title: 'TIC TAC TOE',
+        description: 'TIC TAC TOE', 
+        bgImage: '/tic.png',
+        url:"https://fizzytictoe.netlify.app/"
+    }
    
    
    
